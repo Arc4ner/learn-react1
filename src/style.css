@@ -1,0 +1,17 @@
+.container {
+    margin-top: 20px;
+    background-color: aquamarine;
+    background: rgba(76, 175, 80, 0.3)
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+label {
+    padding-left: 10px;
+}
+
+input[type='checkbox']{
+    margin-left: 10px;
+}
